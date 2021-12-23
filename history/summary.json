@@ -112,7 +112,7 @@
     "url": "https://web3.yourserver.net",
     "icon": "https://favicons.githubusercontent.com/web3.yourserver.net",
     "slug": "web-server-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 326,
     "timeMonth": 317,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-23": 0
+    }
   }
 ]
