@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/billing.presswizards.com",
     "slug": "billing-system",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 702,
     "timeDay": 855,
     "timeWeek": 860,
@@ -79,7 +79,7 @@
     "url": "https://web1.yourserver.net",
     "icon": "https://favicons.githubusercontent.com/web1.yourserver.net",
     "slug": "web-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,6 +91,7 @@
     "timeMonth": 344,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2022-02-26": 0,
       "2021-12-29": 17
     }
   },
