@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 161,
-    "timeWeek": 139,
-    "timeMonth": 132,
+    "timeDay": 95,
+    "timeWeek": 128,
+    "timeMonth": 133,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 574,
-    "timeDay": 281,
-    "timeWeek": 279,
-    "timeMonth": 251,
+    "time": 573,
+    "timeDay": 176,
+    "timeWeek": 263,
+    "timeMonth": 250,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2022-06-21": 21,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 477,
-    "timeDay": 474,
-    "timeWeek": 470,
-    "timeMonth": 451,
+    "timeDay": 453,
+    "timeWeek": 484,
+    "timeMonth": 452,
     "timeYear": 475,
     "dailyMinutesDown": {}
   },
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 326,
-    "timeWeek": 320,
+    "timeDay": 297,
+    "timeWeek": 329,
     "timeMonth": 303,
     "timeYear": 317,
     "dailyMinutesDown": {}
@@ -84,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/web1.yourserver.net.ico",
     "slug": "web-server-1",
     "status": "down",
-    "uptime": "47.94%",
+    "uptime": "47.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.37%",
+    "uptimeYear": "45.10%",
     "time": 319,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 315,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2022-12-28": 4,
+      "2022-12-29": 4,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -296,8 +297,7 @@
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 515,
-      "2022-03-03": 18,
-      "2021-12-29": 17
+      "2022-03-03": 18
     }
   },
   {
@@ -306,18 +306,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/web2.yourserver.net.ico",
     "slug": "web-server-2",
     "status": "down",
-    "uptime": "47.94%",
+    "uptime": "47.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.38%",
+    "uptimeYear": "45.11%",
     "time": 296,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 291,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-12-28": 4,
+      "2022-12-29": 4,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -517,8 +518,7 @@
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
-      "2022-06-11": 497,
-      "2021-12-29": 17
+      "2022-06-11": 497
     }
   },
   {
@@ -527,18 +527,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/web3.yourserver.net.ico",
     "slug": "web-server-3",
     "status": "down",
-    "uptime": "47.94%",
+    "uptime": "47.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.38%",
+    "uptimeYear": "45.11%",
     "time": 285,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-12-28": 4,
+      "2022-12-29": 4,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -738,8 +739,7 @@
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
-      "2022-06-11": 497,
-      "2021-12-29": 16
+      "2022-06-11": 497
     }
   }
 ]
