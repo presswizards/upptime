@@ -7,16 +7,16 @@ sites:
     url: https://presswizards.com
   - name: Billing System
     url: https://billing.presswizards.com
-  - name: Web Server 4
+  - name: Web Server 1 Plesk
     url: https://plesk.presswizards.com
-  - name: Web Server 5
-    url: https://plesk.presswizards.com
-  - name: Web Server 1
-    url: https://web1.yourserver.net
-  - name: Web Server 2
-    url: https://web2.yourserver.net
-  - name: Web Server 3
-    url: https://web3.yourserver.net
+  - name: Web Server 2 Plesk
+    url: https://plesk2.presswizards.com
+  - name: Web Server 3 Plesk
+    url: https://plesk3.presswizards.com
+  - name: Web Server 4 Plesk
+    url: https://ashburn.presswizards.com
+  - name: Web Server 5 Enhance CP
+    url: https://ecp.presswizards.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
