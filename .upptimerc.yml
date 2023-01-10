@@ -29,7 +29,7 @@ status-website:
   introMessage: System Status for Press Wizards. No server required — powered by GitHub.
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: PressWizards.com
       href: https://presswizards.com
 
