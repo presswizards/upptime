@@ -100,18 +100,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashburn.presswizards.com.ico",
     "slug": "web-server-4-plesk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.01%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 345,
     "timeDay": 398,
     "timeWeek": 345,
     "timeMonth": 345,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-01-16": 0
+      "2023-01-16": 76
     }
   },
   {
@@ -119,9 +119,9 @@
     "url": "https://ecp.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/ecp.presswizards.com.ico",
     "slug": "web-server-5-enhance-cp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,6 +130,8 @@
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   }
 ]
