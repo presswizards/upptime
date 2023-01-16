@@ -99,18 +99,20 @@
     "url": "https://ashburn.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/ashburn.presswizards.com.ico",
     "slug": "web-server-4-plesk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 530,
-    "timeWeek": 355,
-    "timeMonth": 355,
-    "timeYear": 355,
-    "dailyMinutesDown": {}
+    "time": 345,
+    "timeDay": 398,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   },
   {
     "name": "Web Server 5 Enhance CP",
