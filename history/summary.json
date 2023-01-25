@@ -63,10 +63,10 @@
     "url": "https://plesk2.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk2.presswizards.com.ico",
     "slug": "web-server-2-plesk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 486,
@@ -74,7 +74,9 @@
     "timeWeek": 463,
     "timeMonth": 486,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Web Server 3 Plesk",
@@ -100,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashburn.presswizards.com.ico",
     "slug": "web-server-4-plesk",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 333,
     "timeDay": 133,
     "timeWeek": 275,
@@ -119,9 +121,9 @@
     "url": "https://ecp.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/ecp.presswizards.com.ico",
     "slug": "web-server-5-enhance-cp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -131,6 +133,7 @@
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-16": 33
     }
   }
