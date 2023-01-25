@@ -45,19 +45,19 @@
     "url": "https://plesk.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk.presswizards.com.ico",
     "slug": "web-server-1-plesk",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 498,
     "timeDay": 491,
     "timeWeek": 466,
     "timeMonth": 498,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2023-01-25": 52
+      "2023-01-25": 46
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://plesk2.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk2.presswizards.com.ico",
     "slug": "web-server-2-plesk",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 542,
     "timeDay": 802,
     "timeWeek": 586,
     "timeMonth": 542,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2023-01-25": 42
+      "2023-01-25": 36
     }
   },
   {
