@@ -13,7 +13,7 @@
     "time": 128,
     "timeDay": 194,
     "timeWeek": 140,
-    "timeMonth": 112,
+    "timeMonth": 113,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 520,
     "timeDay": 319,
     "timeWeek": 267,
-    "timeMonth": 241,
+    "timeMonth": 242,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2022-06-21": 21,
@@ -74,7 +74,7 @@
     "time": 724,
     "timeDay": 596,
     "timeWeek": 513,
-    "timeMonth": 463,
+    "timeMonth": 464,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2023-01-25": 36
@@ -104,18 +104,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashburn.presswizards.com.ico",
     "slug": "web-server-4-plesk",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.66%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.66%",
     "time": 324,
     "timeDay": 259,
     "timeWeek": 325,
-    "timeMonth": 276,
+    "timeMonth": 279,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2023-03-28": 0,
+      "2023-03-29": 4,
+      "2023-03-28": 12,
       "2023-03-12": 188,
       "2023-02-26": 63,
       "2023-01-16": 109
