@@ -65,9 +65,9 @@
     "url": "https://plesk2.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk2.presswizards.com.ico",
     "slug": "web-server-2-plesk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -77,6 +77,7 @@
     "timeMonth": 484,
     "timeYear": 712,
     "dailyMinutesDown": {
+      "2023-04-05": 0,
       "2023-01-25": 36
     }
   },
@@ -106,12 +107,12 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.68%",
     "time": 333,
     "timeDay": 360,
-    "timeWeek": 440,
+    "timeWeek": 410,
     "timeMonth": 309,
     "timeYear": 333,
     "dailyMinutesDown": {
