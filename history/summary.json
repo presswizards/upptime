@@ -22,9 +22,9 @@
     "url": "https://billing.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.presswizards.com.ico",
     "slug": "billing-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 313,
     "timeMonth": 260,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
   },
   {
     "name": "Web Server 1 Plesk",
@@ -126,18 +128,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecp.presswizards.com.ico",
     "slug": "web-server-5-enhance-cp",
     "status": "down",
-    "uptime": "48.14%",
+    "uptime": "48.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.14%",
+    "uptimeYear": "48.10%",
     "time": 158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-10-27": 4,
+      "2023-10-27": 350,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
