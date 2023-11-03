@@ -22,9 +22,9 @@
     "url": "https://billing.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.presswizards.com.ico",
     "slug": "billing-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "91.28%",
+    "uptimeDay": "91.27%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 272,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2023-11-03": 0,
       "2023-11-02": 126,
       "2023-11-01": 20
     }
@@ -104,9 +105,9 @@
     "url": "https://ashburn.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/ashburn.presswizards.com.ico",
     "slug": "web-server-4-plesk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "91.35%",
+    "uptimeDay": "91.33%",
     "uptimeWeek": "98.57%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.88%",
@@ -116,6 +117,7 @@
     "timeMonth": 392,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2023-11-03": 0,
       "2023-11-02": 124,
       "2023-11-01": 19,
       "2023-03-29": 13,
@@ -142,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-11-03": 4,
+      "2023-11-03": 73,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
