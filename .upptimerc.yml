@@ -16,7 +16,7 @@ sites:
   - name: Web Server 4 Plesk
     url: https://ashburn.presswizards.com
   - name: Web Server 5 Enhance CP
-    url: https://ecp.presswizards.com
+    url: https://enhance.presswizards.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
