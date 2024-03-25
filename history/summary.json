@@ -76,7 +76,7 @@
     "timeDay": 475,
     "timeWeek": 565,
     "timeMonth": 495,
-    "timeYear": 545,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2023-07-30": 21
     }
@@ -132,9 +132,9 @@
     "url": "https://enhance.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/enhance.presswizards.com.ico",
     "slug": "web-server-5-enhance-cp",
-    "status": "up",
-    "uptime": "44.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "44.96%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "33.68%",
@@ -144,6 +144,7 @@
     "timeMonth": 186,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2024-03-25": 0,
       "2024-02-15": 25,
       "2024-02-04": 27,
       "2024-01-27": 147,
