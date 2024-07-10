@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 111,
-    "timeWeek": 122,
-    "timeMonth": 112,
+    "timeDay": 153,
+    "timeWeek": 127,
+    "timeMonth": 113,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 281,
-    "timeDay": 300,
-    "timeWeek": 327,
-    "timeMonth": 330,
+    "time": 282,
+    "timeDay": 338,
+    "timeWeek": 319,
+    "timeMonth": 331,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2023-12-01": 33,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 499,
-    "timeDay": 478,
-    "timeWeek": 404,
-    "timeMonth": 434,
+    "time": 498,
+    "timeDay": 470,
+    "timeWeek": 390,
+    "timeMonth": 438,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2024-05-21": 102,
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 454,
-    "timeWeek": 3066,
-    "timeMonth": 1252,
+    "timeDay": 428,
+    "timeWeek": 3056,
+    "timeMonth": 1253,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2023-07-30": 21
@@ -90,18 +90,16 @@
     "slug": "web-server-3-plesk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 2979,
-    "timeWeek": 1328,
-    "timeMonth": 743,
+    "timeDay": 2987,
+    "timeWeek": 1356,
+    "timeMonth": 746,
     "timeYear": 660,
-    "dailyMinutesDown": {
-      "2024-07-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Server 4 Plesk",
@@ -115,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 326,
-    "timeDay": 144,
-    "timeWeek": 287,
-    "timeMonth": 294,
+    "timeDay": 192,
+    "timeWeek": 240,
+    "timeMonth": 295,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2023-12-01": 19,
@@ -133,15 +131,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/enhance.presswizards.com.ico",
     "slug": "web-server-5-enhance-cp",
     "status": "up",
-    "uptime": "55.61%",
+    "uptime": "55.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.70%",
-    "time": 245,
-    "timeDay": 300,
-    "timeWeek": 221,
-    "timeMonth": 196,
+    "uptimeYear": "44.89%",
+    "time": 246,
+    "timeDay": 340,
+    "timeWeek": 250,
+    "timeMonth": 200,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2024-05-23": 17,
@@ -348,8 +346,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   }
 ]
