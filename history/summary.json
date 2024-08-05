@@ -89,9 +89,9 @@
     "url": "https://plesk3.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk3.presswizards.com.ico",
     "slug": "web-server-3-plesk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,7 +100,9 @@
     "timeWeek": 453,
     "timeMonth": 892,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "Web Server 4 Plesk",
@@ -132,11 +134,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/enhance.presswizards.com.ico",
     "slug": "web-server-5-enhance-cp",
     "status": "up",
-    "uptime": "57.68%",
+    "uptime": "57.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.01%",
+    "uptimeYear": "52.12%",
     "time": 249,
     "timeDay": 348,
     "timeWeek": 214,
