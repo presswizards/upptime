@@ -90,19 +90,19 @@
     "url": "https://plesk3.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/plesk3.presswizards.com.ico",
     "slug": "web-server-3-plesk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 642,
-    "timeWeek": 457,
-    "timeMonth": 433,
-    "timeYear": 649,
+    "time": 635,
+    "timeDay": 2745,
+    "timeWeek": 1006,
+    "timeMonth": 575,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 6
     }
   },
   {
