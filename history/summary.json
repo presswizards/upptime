@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 471,
-    "timeWeek": 285,
-    "timeMonth": 323,
+    "time": 138,
+    "timeDay": 230,
+    "timeWeek": 300,
+    "timeMonth": 315,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 296,
-    "timeDay": 545,
-    "timeWeek": 327,
-    "timeMonth": 360,
+    "timeDay": 356,
+    "timeWeek": 329,
+    "timeMonth": 356,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2023-12-01": 33,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 498,
-    "timeDay": 535,
-    "timeWeek": 504,
-    "timeMonth": 496,
-    "timeYear": 491,
+    "timeDay": 293,
+    "timeWeek": 479,
+    "timeMonth": 485,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2024-09-06": 306,
       "2024-07-31": 52,
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 577,
-    "timeDay": 566,
-    "timeWeek": 499,
-    "timeMonth": 491,
-    "timeYear": 564,
+    "timeDay": 360,
+    "timeWeek": 480,
+    "timeMonth": 482,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2024-07-31": 45
     }
@@ -97,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 2575,
+    "timeDay": 517,
     "timeWeek": 975,
-    "timeMonth": 569,
-    "timeYear": 659,
+    "timeMonth": 578,
+    "timeYear": 658,
     "dailyMinutesDown": {}
   },
   {
@@ -115,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 325,
-    "timeDay": 598,
-    "timeWeek": 340,
-    "timeMonth": 344,
-    "timeYear": 326,
+    "timeDay": 240,
+    "timeWeek": 343,
+    "timeMonth": 334,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2023-12-01": 19,
       "2023-11-09": 69,
@@ -133,15 +133,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/enhance.presswizards.com.ico",
     "slug": "web-server-5-enhance-cp",
     "status": "up",
-    "uptime": "62.18%",
+    "uptime": "62.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.64%",
+    "uptimeYear": "70.91%",
     "time": 263,
-    "timeDay": 83,
-    "timeWeek": 190,
-    "timeMonth": 193,
+    "timeDay": 253,
+    "timeWeek": 188,
+    "timeMonth": 198,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2024-05-23": 17,
@@ -253,8 +253,7 @@
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
-      "2023-10-15": 1440,
-      "2023-10-14": 1440
+      "2023-10-15": 1440
     }
   }
 ]
