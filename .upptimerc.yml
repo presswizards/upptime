@@ -7,16 +7,16 @@ sites:
     url: https://presswizards.com
   - name: Billing System
     url: https://billing.presswizards.com
-  - name: Web Server 1 Plesk
+  - name: Web Server Plesk - Lexana
     url: https://plesk.presswizards.com
-  - name: Web Server 2 Plesk
+  - name: Web Server Plesk 2 - Lexana
     url: https://plesk2.presswizards.com
-  - name: Web Server 3 Plesk
-    url: https://plesk3.presswizards.com
-  - name: Web Server 4 Plesk
+  - name: Web Server Plesk - Ashburn East Coast
     url: https://ashburn.presswizards.com
-  - name: Web Server 5 Enhance CP
+  - name: Web Server Enhance CP
     url: https://enhance.presswizards.com
+  - name: Email Delivery Server
+    url: https://emails.presswizards.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
