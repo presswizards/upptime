@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emails.presswizards.com.ico",
     "slug": "email-delivery-server",
     "status": "down",
-    "uptime": "5.29%",
-    "uptimeDay": "5.29%",
-    "uptimeWeek": "5.29%",
-    "uptimeMonth": "5.29%",
-    "uptimeYear": "5.29%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 0
+      "2024-11-08": 10
     }
   }
 ]
