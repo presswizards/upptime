@@ -22,19 +22,19 @@
     "url": "https://billing.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.presswizards.com.ico",
     "slug": "billing-system",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 284,
-    "timeWeek": 368,
-    "timeMonth": 328,
+    "time": 313,
+    "timeDay": 272,
+    "timeWeek": 355,
+    "timeMonth": 326,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-12-09": 0
+      "2024-12-09": 11
     }
   },
   {
