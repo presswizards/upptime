@@ -22,9 +22,9 @@
     "url": "https://billing.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.presswizards.com.ico",
     "slug": "billing-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 368,
     "timeMonth": 328,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-09": 0
+    }
   },
   {
     "name": "Web Server Plesk - Lexana",
