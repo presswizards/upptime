@@ -112,19 +112,19 @@
     "url": "https://emails.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/emails.presswizards.com.ico",
     "slug": "email-delivery-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 354,
-    "timeWeek": 274,
-    "timeMonth": 236,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 251,
+    "timeDay": 330,
+    "timeWeek": 278,
+    "timeMonth": 239,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-12-31": 0
+      "2024-12-31": 12
     }
   }
 ]
