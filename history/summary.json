@@ -22,19 +22,19 @@
     "url": "https://billing.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.presswizards.com.ico",
     "slug": "billing-system",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 566,
-    "timeWeek": 405,
-    "timeMonth": 326,
+    "timeDay": 521,
+    "timeWeek": 414,
+    "timeMonth": 330,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-01-15": 1
+      "2025-01-15": 21
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://ashburn.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/ashburn.presswizards.com.ico",
     "slug": "web-server-plesk-ashburn-east-coast",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 442,
-    "timeWeek": 352,
-    "timeMonth": 281,
-    "timeYear": 287,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 290,
+    "timeDay": 491,
+    "timeWeek": 375,
+    "timeMonth": 289,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-01-15": 0
+      "2025-01-15": 21
     }
   },
   {
