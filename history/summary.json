@@ -116,9 +116,9 @@
     "url": "https://emails.presswizards.com",
     "icon": "https://icons.duckduckgo.com/ip3/emails.presswizards.com.ico",
     "slug": "email-delivery-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +127,8 @@
     "timeWeek": 201,
     "timeMonth": 232,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   }
 ]
